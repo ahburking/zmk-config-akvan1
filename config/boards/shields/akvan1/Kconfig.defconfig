@@ -1,6 +1,0 @@
-if SHIELD_AKVAN1
-
-config ZMK_KEYBOARD_NAME
-    default "akvan1"
-
-endif

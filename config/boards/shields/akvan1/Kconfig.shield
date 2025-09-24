@@ -1,2 +1,0 @@
-config SHIELD_AKVAN1
-    def_bool $(shields_list_contains, akvan1)
